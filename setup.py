@@ -8,5 +8,5 @@ setup(
     author='XUDOBERDI GAYRATOV',
     author_email='xudoberdigayratov@gmail.com',
     description="O'zbek ismlarining to'liq, batafsil ma'nosi, kelib chiqishi, shakllari. O'zingiz va yaqinlaringizni ismlari ma'nosini bilib oling.",
-    url='https://github.com/Gayratoff/callculator.git',
+    url='https://github.com/Gayratoff/NM-UZB.git',
 )
